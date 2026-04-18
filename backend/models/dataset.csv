@@ -1,0 +1,11 @@
+amount,duration_months,risk_level,age,recommendation
+10000,6,0,30,Short-Term Flexi FD
+50000,12,0,65,Senior Citizen FD
+200000,24,1,45,Standard Bank FD
+600000,60,2,35,Corporate FD
+100000,6,1,25,Short-Term Flexi FD
+1500000,36,2,40,Corporate FD
+5000,12,0,20,SBI / Post Office FD
+750000,60,1,62,Senior Citizen FD
+20000,3,0,55,Short-Term Flexi FD
+1000000,24,2,50,Small Finance Bank FD
